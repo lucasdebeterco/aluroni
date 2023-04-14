@@ -1,9 +1,10 @@
 import { useState } from 'react'
 import './App.css'
+import Cardapio from "./pages/Cardapio";
 
 function App() {
   return (
-    <>Aluroni</>
+    <Cardapio />
   )
 }
 
